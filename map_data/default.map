@@ -80,9 +80,9 @@ sea_zones = LIST { 963 } 			# Vanern (Gota Alv)
 sea_zones = LIST { 962 } 			# Vattern (Motala Strom)
 sea_zones = LIST { 1012 } 			# Lake Peipsi (Narva)
 sea_zones = LIST { 1076 } 			# Lake Chad
-sea_zones = LIST { 1305 } 			# Balkhash Lake
-sea_zones = LIST { 1494 } 			# Lake Baikal
-sea_zones = RANGE { 10033 10038 } 	# Caspian Sea ex
+sea_zones = LIST { 1305 } 			# Balkhash Lake		
+sea_zones = LIST { 1494 } 			# Lake Baikal		
+sea_zones = RANGE { 10033 10038 } 	# Caspian Sea ex 	6
 
 ###############
 # MAJOR RIVERS - 173
@@ -131,7 +131,7 @@ river_provinces = RANGE { 8092 8096 }	# Niger
 river_provinces = LIST { 626 689 1063 1065 1066 1067 1077 1078 1079 1081 1082 1083 1084 1487 5510 5511 6125 } # 17
 river_provinces = LIST { 8560 8568 8571 8572 8573 8577 8602 } # 7
 
-#MNR2 Rivers - 415		Start 9660 - End 10080
+#MNR2 Rivers - 475		Start 9660 - End 10134		74 systesm
 #East Africa - 16
 river_provinces = RANGE { 9660 9675 }	# Nile 16
 #Iberia - 14
@@ -140,8 +140,9 @@ river_provinces = LIST { 9677 } 		# Guadian 1
 river_provinces = RANGE { 9678 9682 } 	# Tajo 5
 river_provinces = RANGE { 9683 9686 } 	# Duero 3
 river_provinces = RANGE { 9687 9690 } 	# Ebro 4
-#North Africa - 2
+#North Africa - 5
 river_provinces = RANGE { 10045 10047 } # Sebou 3
+river_provinces = RANGE { 10133 10134 } # Oum Er-Rbia 2
 #France - 28
 river_provinces = RANGE { 9691 9692 } 	# Dordogne 2
 river_provinces = RANGE { 9693 9699 } 	# Loire 7
@@ -214,7 +215,7 @@ river_provinces = RANGE { 9934 9939 } 	# Godavari 6
 #Eastern India - 33
 river_provinces = RANGE { 9940 9941 } 	# Mahanadi 2
 river_provinces = RANGE { 9942 9972 } 	# Ganges 31
-#West Africa - 53
+#West Africa - 57
 river_provinces = RANGE { 9973 9978 } 	# Senegal 6
 river_provinces = RANGE { 9979 9987 } 	# Volta 9
 river_provinces = RANGE { 9988 10001 } 	# Niger 14
@@ -224,9 +225,15 @@ river_provinces = RANGE { 10008 10013 } # Yobe 6
 river_provinces = RANGE { 10069 10072 } # Sassandra 4
 river_provinces = RANGE { 10073 10076 } # Bandama 4
 river_provinces = RANGE { 10077 10080 } # Komoe 4
-#Northern Asia - 7
+river_provinces = RANGE { 10127 10128 } # Nianda 2
+river_provinces = LIST { 10129 } # Konkour 1
+river_provinces = LIST { 10130 } # Geba ex 1
+river_provinces = RANGE { 10131 10132 } # Sokoto 2
+#Northern Asia - 53
 river_provinces = RANGE { 10019 10021 }	# Angara 3
 river_provinces = RANGE { 10022 10025 }	# Selenge 4
+river_provinces = RANGE { 10081 10126 }	# Ob 46
+
 
 #MNR2 Overrides
 river_provinces = LIST { 955 } 			# Saimaa (Vig)

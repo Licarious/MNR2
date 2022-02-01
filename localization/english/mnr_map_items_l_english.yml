@@ -131,7 +131,23 @@
  river_sassandra:0 "Sassandra"
  river_bandama:0 "Bandama"
  river_komoe:0 "Komoe"
-
+ 
+ river_ob:0 "Ob"
+ river_anuy:0 "Anuy"
+ river_chulym:0 "Chulym"
+ river_irtysh:0 "Irtysh"
+ river_om:0 "Om"
+ river_ishim:0 "Ishim"
+ river_tobol:0 "Tobol"
+ river_iset:0 "Iset"
+ river_tura:0 "Tura"
+ river_tavda:0 "Tavda"
+ river_konda:0 "Konda"
+ river_nianda:0 "Nianda"
+ river_konkoure:0 "Konkoure"
+ river_sokoto:0 "Sokoto"
+ river_oum_er-rbia:0 "Oum er-Rbia"
+ 
  # SEA ZONES
  sea_garabogazkol:0 "Garabogazköl"
 
