@@ -1,0 +1,11 @@
+﻿l_english:
+ building_type_canal_of_the_pharaohs_01:0 "Canal of the Pharaohs"
+ building_type_canal_of_the_pharaohs_01_desc:0 "#F This canal once allowed for easy trade and troop movement between the Mediterranean and Red seas, but those days are long past."
+ building_canal_of_the_pharaohs_01:0 "Silted Up Canal"
+ building_canal_of_the_pharaohs_01_desc:0 "After years of unuse this once great canal has silted up and will likely never be opened again."
+ building_canal_of_the_pharaohs_02:0 "Canal Under Renovations"
+ building_canal_of_the_pharaohs_02_desc:1 "The former location of the canal is being dredged up and new locks are being installed."
+ building_canal_of_the_pharaohs_03:0 "Canal Open"
+ building_canal_of_the_pharaohs_03_desc:0 "Against all odds this once great canal has reopened."
+ building_canal_of_the_pharaohs_04:0 "Canal Temporarily Closed"
+ building_canal_of_the_pharaohs_04_desc:0 "Temporarily closed and at risk of silting up again."

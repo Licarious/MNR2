@@ -1,0 +1,6 @@
+﻿# 6039 - QUZLUM
+6039 = {	# 6039 - Quzlum
+	150.1.1 = { special_building = canal_of_the_pharaohs_01 }
+	#641.1.1 = { special_building = canal_of_the_pharaohs_03 } #waiting for game mechanics
+	767.1.1 = { special_building = canal_of_the_pharaohs_01 }
+}

@@ -1,0 +1,11 @@
+﻿l_german:
+ building_type_canal_of_the_pharaohs_01:0 "Bubastis-Kanal"
+ building_type_canal_of_the_pharaohs_01_desc:0 "#F Dieser Kanal ermöglichte einst einen einfachen Handel und Truppenbewegungen zwischen dem Mittelmeer und dem Roten Meer, aber diese Zeiten sind lange vorbei."
+ building_canal_of_the_pharaohs_01:0 "Verschlammter Kanal"
+ building_canal_of_the_pharaohs_01_desc:0 "Nach Jahren der Nichtbenutzung ist dieser einst große Kanal verschlammt und wird wahrscheinlich nie wieder geöffnet."
+ building_canal_of_the_pharaohs_02:0 "Kanal Unter Renovierungen"
+ building_canal_of_the_pharaohs_02_desc:1 "Der ehemalige Standort des Kanals wird ausgebaggert und neue Schleusen installiert."
+ building_canal_of_the_pharaohs_03:0 "Kanal Offen"
+ building_canal_of_the_pharaohs_03_desc:0 "Trotz aller Widrigkeiten hat sich dieser einst große Kanal wieder geöffnet."
+ building_canal_of_the_pharaohs_04:0 "Kanal Vorübergehend Geschlossen"
+ building_canal_of_the_pharaohs_04_desc:0 "Vorübergehend geschlossen und in Gefahr, wieder zu verschlammen."

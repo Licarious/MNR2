@@ -1,0 +1,11 @@
+﻿l_russian:
+ building_type_canal_of_the_pharaohs_01:0 "Канал фараонов"
+ building_type_canal_of_the_pharaohs_01_desc:0 "#F Этот канал когда-то позволял беспрепятственно торговать и перемещать войска между Средиземным и Красным морями, но те времена давно прошли."
+ building_canal_of_the_pharaohs_01:0 "Заиленный канал"
+ building_canal_of_the_pharaohs_01_desc:0 "После многих лет простоя этот некогда великий канал заилился и, скорее всего, больше никогда не будет открыт."
+ building_canal_of_the_pharaohs_02:0 "Канал под ремонт"
+ building_canal_of_the_pharaohs_02_desc:1 "На прежнем месте канала ведутся работы по углублению и установке новых шлюзов."
+ building_canal_of_the_pharaohs_03:0 "Канал открыт"
+ building_canal_of_the_pharaohs_03_desc:0 "Несмотря на все трудности, этот некогда великий канал вновь открылся."
+ building_canal_of_the_pharaohs_04:0 "Канал временно закрыт"
+ building_canal_of_the_pharaohs_04_desc:0 "Временно закрыто и снова может заилиться."

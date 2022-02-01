@@ -1,0 +1,116 @@
+﻿##########					- Placeholder for future implication if paradox ever allows for the ability to do ether:
+# Canal of the Pharaohs  	A. Apply terrain types to water (like you can in IR and HOI4), and change terrain types via scripts.
+##########					B. The ability to add/remove adjacencies mid game via scripts (like canals in EU4).
+
+canal_of_the_pharaohs_01 = { #Silted Up
+
+	construction_time = 1
+
+	type_icon = "icon_building_tradeport.dds"
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+		building_requirement_castle_city_church = { LEVEL = 01 }
+	}
+	
+	cost_gold = 0
+	
+	province_modifier = {
+	}
+	county_modifier = {
+	}
+	
+	#next_building = canal_of_the_pharaohs_02 #maybe one day paradox will implement what is needed to create this.
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+canal_of_the_pharaohs_02 = { #Under Renovation
+
+	construction_time = 7300
+
+	type_icon = "icon_building_tradeport.dds"
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	can_construct = {
+		building_requirement_castle_city_church = { LEVEL = 03 }
+	}
+	
+	cost_gold = 5000
+	
+	province_modifier = {
+	}
+	county_modifier = {
+	}
+	
+	next_building = canal_of_the_pharaohs_03
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+canal_of_the_pharaohs_03 = { #Open
+
+	construction_time = 30
+
+	type_icon = "icon_building_tradeport.dds"
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	can_construct = {
+		building_requirement_castle_city_church = { LEVEL = 01 }
+	}
+	
+	cost_gold = 100
+	
+	province_modifier = {
+	}
+	county_modifier = {
+	}
+	
+	#next_building = canal_of_the_pharaohs_04
+	
+	ai_value = {
+		base = 100
+	}
+	
+	type = special
+}
+
+canal_of_the_pharaohs_04 = { #Temporally Closed
+
+	construction_time = 30
+
+	type_icon = "icon_building_tradeport.dds"
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	can_construct = {
+		building_requirement_castle_city_church = { LEVEL = 01 }
+	}
+	
+	cost_gold = 0
+	
+	province_modifier = {
+	}
+	county_modifier = {
+	}
+	
+	
+	ai_value = {
+		base = 0
+	}
+	
+	type = special
+}
