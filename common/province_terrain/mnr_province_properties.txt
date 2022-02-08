@@ -1,6 +1,3 @@
-9660 ={
-	winter_severity_bias = 0.0
-}
 9661 ={
 	winter_severity_bias = 0.0
 }
@@ -1259,5 +1256,170 @@
 	winter_severity_bias = 0.0
 }
 10080 ={
+	winter_severity_bias = 0.0
+}
+10081 ={
+	winter_severity_bias = 0.0
+}
+10082 ={
+	winter_severity_bias = 0.0
+}
+10083 ={
+	winter_severity_bias = 0.0
+}
+10084 ={
+	winter_severity_bias = 0.0
+}
+10085 ={
+	winter_severity_bias = 0.0
+}
+10086 ={
+	winter_severity_bias = 0.0
+}
+10087 ={
+	winter_severity_bias = 0.0
+}
+10088 ={
+	winter_severity_bias = 0.0
+}
+10089 ={
+	winter_severity_bias = 0.0
+}
+10090 ={
+	winter_severity_bias = 0.0
+}
+10091 ={
+	winter_severity_bias = 0.0
+}
+10092 ={
+	winter_severity_bias = 0.0
+}
+10093 ={
+	winter_severity_bias = 0.0
+}
+10094 ={
+	winter_severity_bias = 0.0
+}
+10095 ={
+	winter_severity_bias = 0.0
+}
+10096 ={
+	winter_severity_bias = 0.0
+}
+10097 ={
+	winter_severity_bias = 0.0
+}
+10098 ={
+	winter_severity_bias = 0.0
+}
+10099 ={
+	winter_severity_bias = 0.0
+}
+10100 ={
+	winter_severity_bias = 0.0
+}
+10101 ={
+	winter_severity_bias = 0.0
+}
+10102 ={
+	winter_severity_bias = 0.0
+}
+10103 ={
+	winter_severity_bias = 0.0
+}
+10104 ={
+	winter_severity_bias = 0.0
+}
+10105 ={
+	winter_severity_bias = 0.0
+}
+10106 ={
+	winter_severity_bias = 0.0
+}
+10107 ={
+	winter_severity_bias = 0.0
+}
+10108 ={
+	winter_severity_bias = 0.0
+}
+10109 ={
+	winter_severity_bias = 0.0
+}
+10110 ={
+	winter_severity_bias = 0.0
+}
+10111 ={
+	winter_severity_bias = 0.0
+}
+10112 ={
+	winter_severity_bias = 0.0
+}
+10113 ={
+	winter_severity_bias = 0.0
+}
+10114 ={
+	winter_severity_bias = 0.0
+}
+10115 ={
+	winter_severity_bias = 0.0
+}
+10116 ={
+	winter_severity_bias = 0.0
+}
+10117 ={
+	winter_severity_bias = 0.0
+}
+10118 ={
+	winter_severity_bias = 0.0
+}
+10119 ={
+	winter_severity_bias = 0.0
+}
+10120 ={
+	winter_severity_bias = 0.0
+}
+10121 ={
+	winter_severity_bias = 0.0
+}
+10122 ={
+	winter_severity_bias = 0.0
+}
+10123 ={
+	winter_severity_bias = 0.0
+}
+10124 ={
+	winter_severity_bias = 0.0
+}
+10125 ={
+	winter_severity_bias = 0.0
+}
+10126 ={
+	winter_severity_bias = 0.0
+}
+10127 ={
+	winter_severity_bias = 0.0
+}
+10128 ={
+	winter_severity_bias = 0.0
+}
+10129 ={
+	winter_severity_bias = 0.0
+}
+10130 ={
+	winter_severity_bias = 0.0
+}
+10131 ={
+	winter_severity_bias = 0.0
+}
+10132 ={
+	winter_severity_bias = 0.0
+}
+10133 ={
+	winter_severity_bias = 0.0
+}
+10134 ={
+	winter_severity_bias = 0.0
+}
+10135 ={
 	winter_severity_bias = 0.0
 }
