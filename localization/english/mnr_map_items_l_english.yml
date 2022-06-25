@@ -66,7 +66,6 @@
  river_siret:0 "Siret"
  river_prut:0 "Prut"
  river_diyala:0 "Diyala"
- river_tigris:0 "Tigris"
  river_khabur:0 "Khabur"
  river_karun:0 "Karun"
  river_kura:0 "Kura"
@@ -147,6 +146,9 @@
  river_konkoure:0 "Konkoure"
  river_sokoto:0 "Sokoto"
  river_oum_er-rbia:0 "Oum er-Rbia"
+ 
+ river_inn:0 "Inn"
+ river_vah: "Vah"
  
  # SEA ZONES
  sea_garabogazkol:0 "Garabogazköl"

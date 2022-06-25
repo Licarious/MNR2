@@ -130,7 +130,7 @@ river_provinces = RANGE { 8092 8096 }	# Niger
 river_provinces = LIST { 626 689 1063 1065 1066 1067 1077 1078 1079 1081 1082 1083 1084 1487 5510 5511 6125 } # 17
 river_provinces = LIST { 8560 8568 8571 8572 8573 8577 8602 } # 7
 
-#MNR2 Rivers - 475		Start 9661 - End 10134		74 systesm
+#MNR2 Rivers - 486		Start 9661 - End 10147		74 systesm
 #East Africa - 16
 river_provinces = RANGE { 9661 9676 }	# Nile 16
 #Iberia - 14
@@ -164,12 +164,12 @@ river_provinces = RANGE { 10041 10042 } # Ouse 2
 river_provinces = RANGE { 10043 10045 } # Nene 3 
 #Rhine - 20
 river_provinces = RANGE { 9732 9751 } 	# Rhine 20 
-#Northern Europe - 28
+#Northern Europe - 30
 river_provinces = RANGE { 9752 9754 } 	# Ems 3 
 river_provinces = RANGE { 9755 9759 } 	# Weser 5 
 river_provinces = RANGE { 9760 9767 } 	# Elbe 8 
 river_provinces = RANGE { 9768 9778 } 	# Oder 11 
-river_provinces = LIST { 10017 } 		# Oder 1 
+river_provinces = LIST { 10017 10138 10139 } # Oder 3 
 #Eastern Europe - 38
 river_provinces = RANGE { 9779 9786 } 	# Vistula 8 
 river_provinces = RANGE { 9787 9791 } 	# Neman 5 
@@ -188,9 +188,11 @@ river_provinces = RANGE { 9801 9803 } 	# Gota Alv 3
 river_provinces = RANGE { 9804 9805 } 	# Motala Strom 2 
 #Danube - 42
 river_provinces = RANGE { 9806 9845 } 	# Danube 40 
-river_provinces = LIST { 10018 10019 } 	# Danube 2 
-#Middle East - 34
+river_provinces = LIST { 10018 10019 } 	# Danube ex1 2
+river_provinces = RANGE { 10140 10147 } # Danube ex2 8  
+#Middle East - 36
 river_provinces = RANGE { 9846 9868 } 	# Tigris-Euphrates 23 
+river_provinces = RANGE { 10136 10137 }	# Tigris-Euphrates ex 2
 river_provinces = RANGE { 9869 9875 } 	# Kura 7 
 river_provinces = RANGE { 10055 10056 } # Seyhan 2 
 river_provinces = RANGE { 10057 10058 } # Ceyhan 2 
@@ -225,8 +227,8 @@ river_provinces = RANGE { 10070 10073 } # Sassandra 4
 river_provinces = RANGE { 10074 10077 } # Bandama 4 
 river_provinces = RANGE { 10078 10081 } # Komoe 4 
 river_provinces = RANGE { 10128 10129 } # Nianda 2 
-river_provinces = LIST { 10130 } # Konkour 1 
-river_provinces = LIST { 10131 } # Geba ex 1 
+river_provinces = LIST { 10130 } 		# Konkour 1 
+river_provinces = LIST { 10131 } 		# Geba ex 1 
 river_provinces = RANGE { 10132 10133 } # Sokoto 2 
 #Northern Asia - 53
 river_provinces = RANGE { 10020 10022 }	# Angara 3 
@@ -391,5 +393,5 @@ impassable_seas = LIST { 976 } #IMPASSABLE ATLANTIC EUROPE-AFRICA (Duldrums)
 # These provinces cause issues because they are passable land, but not part of any title.
 # They are probably not visible anywhere on the map, so feel free to reuse them (after double checking that they are actually missing).
 
-impassable_mountains = RANGE { 8793 8992 }
+impassable_mountains = RANGE { 8802 8992 }
 impassable_mountains = LIST { 3222 }

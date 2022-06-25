@@ -1,7 +1,7 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 #BRITAIN
 13;1690;sea;1019;655;3096;668;3105;Slemish-Arran
-14;1684;sea;1019;677;3055;700;3064;Carrickfergus-Wigtown
+14;1684;sea;699;669;3065;698;3072;Carrickfergus-Wigtown
 35;1691;sea;696;671;3198;674;3203;Mull-Ardnamurchon
 1504;1515;river_large;628;-1;-1;-1;-1;Rochester-Maldon
 1527;1526;river_large;629;948;2791;-1;-1;London-Southwark
@@ -30,7 +30,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2332;2181;river_large;3236;1034;2577;-1;-1;Montfort-Mantes
 2333;2357;river_large;3236;-1;-1;-1;-1;Paris-Saint-Denis
 #GERMANY
-2113;2401;sea;3230;1189;2794;1184;2788;Bergen op Zoom-Brielle
+2113;2401;sea;3230;1190;2795;1185;2787;Bergen op Zoom-Brielle
 2402;2401;sea;3230;1203;2794;1209;2795;Dort-Brielle
 2425;2103;river_large;3231;1271;2795;-1;-1;Tiel-Nijmegen
 2101;2677;river_large;3231;1327;2762;-1;-1;Moers-Essen
@@ -231,6 +231,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 9556;9568;river_large;8610;5977;1253;-1;-1;Ava-Sagaing
 #KUTCH
 1295;3385;sea;1397;4705;1161;4711;1172;Kanthakota-Kasara
+#HOLLAND
+2113;2112;sea;3229;1182;2778;1181;2771;Bergen op Zoom-Middelberg
+2115;2112;sea;3229;1154;2763;1159;2767;Bruges-Middelberg
 ### MNR ###
 ## Eastern Africa ##
 #Nile
