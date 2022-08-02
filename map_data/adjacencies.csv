@@ -376,6 +376,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 3058;3060;river_large;9773;-1;-1;-1;-1;LEGNICA-SADOWEL
 3049;3052;river_large;9775;-1;-1;-1;-1;BRZEG-OPPELN
 3152;3151;river_large;9777;-1;-1;-1;-1;LANDSBERG-DRIESEN
+4902;4900;river_large;10138;-1;-1;-1;-1;Czarnkow-Poznan
 ## Eastern Europe ##
 #Vistula
 4953;4960;river_large;9779;-1;-1;-1;-1;Radom-Urzedow
@@ -450,6 +451,11 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 5003;511;river_large;9842;-1;-1;-1;-1;Braila-Galati
 5016;511;river_large;9844;-1;-1;-1;-1;Cahul-Galati
 3601;3664;river_large;10018;-1;-1;-1;-1;Smederevo-Branicevo
+2960;2970;river_large;10140;-1;-1;-1;-1;PASSAU-SCHARDING
+2956;2984;river_large;10142;-1;-1;-1;-1;FALKENSTEIN-MARQUARDSTEIN
+3081;3816;river_large;10143;-1;-1;-1;-1;HOHENAU-Szomolany
+4170;4159;river_large;10144;-1;-1;-1;-1;Hodonin-Spytihnev
+3832;3831;river_large;10147;-1;-1;-1;-1;Pecsen-Nyitra
 ## Southern Europe ##
 #Axios
 3782;490;river_large;10054;-1;-1;-1;-1;Sthlanitza-Thessalonike
@@ -476,6 +482,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 6016;6017;river_large;9866;-1;-1;-1;-1;BAYAN-ABBADAN
 6012;6011;river_large;9867;-1;-1;-1;-1;HUWAIZA-AHWAZ
 4818;4257;river_large;9868;-1;-1;-1;-1;AS-SUS-Gondishapur
+4789;4822;river_large;10136;-1;-1;-1;-1;BAKUSAYA-KASKAR
+6008;6009;river_large;10137;-1;-1;-1;-1;NAHR_SIMMARA-AL-MADHAR
 #Kura
 5790;5773;river_large;9869;-1;-1;-1;-1;Paytakaran-Salyan
 5779;5778;river_large;9870;-1;-1;-1;-1;Barda-Mingachevir
