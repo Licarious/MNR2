@@ -282,7 +282,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 ## France ##
 #Dordogne
 2144;2143;river_large;9692;-1;-1;-1;-1;BLAYE-FRONSAC
-2136;2238;river_large;9693;-1;-1;-1;-1;MONTREUIL-SUR-MER-MONTIGNAC
+2236;2238;river_large;9693;-1;-1;-1;-1;BERGERAC-MONTIGNAC
 #Loire
 2319;2318;river_large;9694;-1;-1;-1;-1;BLOIS-CONTRES
 2463;2339;river_large;9695;-1;-1;-1;-1;SULLY-SUR-LOIRE-MONTARGIS
