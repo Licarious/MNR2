@@ -311,7 +311,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 ## Italy ##
 #Po
 2474;2483;river_large;9720;-1;-1;-1;-1;VIGEVANO-TORTONA
-2045;2470;river_large;9721;-1;-1;-1;-1;CHIERI-VERCELLI
+2045;8764;river_large;9721;-1;-1;-1;-1;CHIERI-Santhia
 #Arno
 2536;2557;river_large;10049;-1;-1;-1;-1;PISA-LIVORNO
 2543;2559;river_large;10050;-1;-1;-1;-1;FIRENZE-IMPRUNETA
@@ -340,7 +340,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2086;2691;river_large;3233;-1;-1;-1;-1;ADENAU-ISENBURG
 2695;2693;river_large;9732;-1;-1;-1;-1;BOPPARD-WIESBADEN
 2732;2744;river_large;9735;-1;-1;-1;-1;SPEYER-HOCKENHEIM
-2721;2751;river_large;9736;-1;-1;-1;-1;STRASSBURG-FREIBURG
+2721;2753;river_large;9736;-1;-1;-1;-1;STRASSBURG-GEROLDSECK
 2855;2741;river_large;9738;-1;-1;-1;-1;FRANKFURT-RUSSELSHEIM
 2862;2868;river_large;9739;-1;-1;-1;-1;KLINGENBERG-WERTHEIM
 2697;2696;river_large;9740;-1;-1;-1;-1;COCHEM-SPONHEIM
