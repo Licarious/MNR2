@@ -148,7 +148,7 @@
  river_oum_er-rbia:0 "Oum er-Rbia"
  
  river_inn:0 "Inn"
- river_vah: "Vah"
+ river_vah:0 "Vah"
  
  # SEA ZONES
  sea_garabogazkol:0 "Garabogazköl"
